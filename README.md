@@ -1,11 +1,10 @@
 # Javascript (G90) | Desafío 1 - Calculando el total
-El objetivo de este hito es implementar la renderización dinámica de componentes en la
-aplicación web.Para este desafío deberás hacer uso de las herramientas que aprendimos, para manipular
-elementos del DOM como el método querySelector.
-
+En objetivo de este desafío es construir el layout de la imagen entregada para validar conocimientos sobre creación de diseños responsivos.
 
 ###  Requerimientos
-1. Agrega el evento de JavaScript que reacciona ante un clic en el elemento HTML que corresponde. (2.5 puntos)
-2. Aplicar los querySelector() e innerHTML() de manera correcta para modificar los elementos del DOM. (2.5 puntos)
-3. Implementa la lógica para modificar total a pagar en función de la cantidad. (2.5 puntos)
-4. Hacer funcionar los botones de + y - para aumentar y disminuir la cantidad de productos. (2.5 puntos)
+1. Utilizar flexbox para posicionar las dos columnas principales: la de contactos y la de sección principal. (1 Punto)
+2. Posicionar con flex en el centro de la sección principal el logo y textos. (2 Puntos)
+3. Utilizar Flex para enlistar los contactos de forma vertical mostrando al menos el nombre de cada uno. (2 Puntos)
+4. Dentro de cada contacto, mostrar la imagen y un texto con el último mensaje enviado, posicionando estos elementos con Flex. (2 Puntos)
+5. Dentro de la sección de contactos, agregar el botón nuevo chat. El botón debe estar centrado y posicionado con Flex. (2 Puntos)
+6. Al principio de la sección de contactos, agregar el estatus del usuario con la imagen e íconos como muestra la imagen 1. (1 Punto)
